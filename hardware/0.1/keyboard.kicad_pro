@@ -63,7 +63,7 @@
       "rule_severities": {
         "annular_width": "error",
         "clearance": "error",
-        "copper_edge_clearance": "error",
+        "copper_edge_clearance": "warning",
         "courtyards_overlap": "error",
         "diff_pair_gap_out_of_range": "error",
         "diff_pair_uncoupled_length_too_long": "error",
@@ -71,8 +71,8 @@
         "duplicate_footprints": "warning",
         "extra_footprint": "warning",
         "footprint_type_mismatch": "error",
-        "hole_clearance": "error",
-        "hole_near_hole": "error",
+        "hole_clearance": "ignore",
+        "hole_near_hole": "ignore",
         "invalid_outline": "error",
         "item_on_disabled_layer": "error",
         "items_not_allowed": "error",
@@ -367,7 +367,7 @@
     "classes": [
       {
         "bus_width": 12.0,
-        "clearance": 0.15,
+        "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
