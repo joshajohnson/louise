@@ -12054,7 +12054,7 @@
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "OSHW Logo" (id 1) (at 436.88 404.495 0))
-    (property "Footprint" "josh-logos:OSHW_Logo_3.6x3.6_F.Mask" (id 2) (at 436.88 398.78 0)
+    (property "Footprint" "josh-logos:OSHW-Logo2_9.8x8mm_Mask" (id 2) (at 436.88 398.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 436.88 398.78 0)
@@ -16687,7 +16687,7 @@
       (reference "JP1") (unit 1) (value "SHORT") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm")
     )
     (path "/00000000-0000-0000-0000-0000619339ec"
-      (reference "LOGO3") (unit 1) (value "OSHW Logo") (footprint "josh-logos:OSHW_Logo_3.6x3.6_F.Mask")
+      (reference "LOGO3") (unit 1) (value "OSHW Logo") (footprint "josh-logos:OSHW-Logo2_9.8x8mm_Mask")
     )
     (path "/00000000-0000-0000-0000-0000619339b0"
       (reference "Q1") (unit 1) (value "BSS138") (footprint "Package_TO_SOT_SMD:SOT-23")
