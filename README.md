@@ -2,4 +2,7 @@
 
 A project between Josh and RiotPunch to build a 75% alice keyboard with a southpaw numpad.
 
-[Layout - currently WIP](http://www.keyboard-layout-editor.com/#/gists/ab3ba77ed92ffaab049310935d5e4eae)
+All the PCB files, case dxfs, and QMK firmware required to build your own are located in this repo.
+
+![photo](docs/louise_warm.jpg)
+Thanks to [Warmthoughts](https://www.twitch.tv/warmthoughts) for the photo.
