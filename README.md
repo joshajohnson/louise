@@ -6,3 +6,15 @@ All the PCB files, case dxfs, and QMK firmware required to build your own are lo
 
 ![photo](docs/louise_warm.jpg)
 Thanks to [Warmthoughts](https://www.twitch.tv/warmthoughts) for the photo.
+
+## BOM
+
+| Type     | Spec         | Quantity | Notes                                            |
+|----------|--------------|----------|--------------------------------------------------|
+| Standoff | M2 x 5mm     | 2        | Wrist Wrest                                      |
+| Standoff | M2 x 8mm     | 8        | Wrist Wrest / Foot                               |
+| Standoff | M2 x 12mm    | 12       | Case                                             |
+| Screw    | M2 x 5mm     | 6        | Wrist Wrest                                      |
+| Screw    | M2 x 6mm     | 40       | Case                                             |
+| Encoder  | EC11, 15mm   | 1        | PEC11R-4215F-S0024                               |
+| Knob     | Max Dia 18mm | 1        | https://www.aliexpress.com/item/33000897896.html |
