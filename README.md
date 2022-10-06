@@ -12,9 +12,10 @@ Thanks to [Warmthoughts](https://www.twitch.tv/warmthoughts) for the photo.
 | Type     | Spec         | Quantity | Notes                                            |
 |----------|--------------|----------|--------------------------------------------------|
 | Standoff | M2 x 5mm     | 2        | Wrist Wrest                                      |
-| Standoff | M2 x 8mm     | 8        | Wrist Wrest / Foot                               |
+| Standoff | M2 x 8mm     | 5        | Foot                                             |
+| Standoff | M2 x 10mm    | 3        | Wrist Wrest                                      |
 | Standoff | M2 x 12mm    | 12       | Case                                             |
-| Screw    | M2 x 5mm     | 6        | Wrist Wrest                                      |
-| Screw    | M2 x 6mm     | 40       | Case                                             |
+| Screw    | M2 x 5mm     | 4        | Wrist Wrest                                      |
+| Screw    | M2 x 6mm     | 40       | Everywhere                                       |
 | Encoder  | EC11, 15mm   | 1        | PEC11R-4215F-S0024                               |
 | Knob     | Max Dia 18mm | 1        | https://www.aliexpress.com/item/33000897896.html |
